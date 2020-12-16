@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://julicavalcanti.github.io/'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
@@ -39,6 +39,13 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: My pets
+  url: /pets/  
+- title: Posts by category
+  url: /categories/  
+
+
+
 
 # Footer nav
 navigation_footer:
